@@ -1,54 +1,52 @@
-# Chat-app
+## Start building Ember.js application using Microsoft Windows
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
 
-## Prerequisites
 
-You will need the following things properly installed on your computer.
+This repository is about 'how-to' building applications with Ember.js using Microsoft Windows. Also contain application built successful on Windows
 
-* [Git](http://git-scm.com/)
-* [Node.js](http://nodejs.org/) (with NPM)
-* [Bower](http://bower.io/)
-* [Ember CLI](http://www.ember-cli.com/)
-* [PhantomJS](http://phantomjs.org/)
+## First Step
+ First You should find our system version x86bit/x64bit and download right version of    Node.js from link down below and install it on your computer
+ 
+[Node.js](http://nodejs.org/) 
 
-## Installation
 
-* `git clone <repository-url>` this repository
-* change into the new directory
-* `npm install`
-* `bower install`
+## Better cmd - The Cmder
+We all know that Windows prompt line is bad and useless so You have to install emulator
+of better, Linux Terminal - The emulator call Cmder, you can download it below.
+P.S cmder is good - cmder got included git :)
 
-## Running / Development
+[The cmder](http://cmder.net/)
 
-* `ember server`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
+Next:
+- unzip file on your computer
+- run cmder as Admin
 
-### Code Generators
 
-Make use of the many generators for code, try `ember help generate` for more details
 
-### Running Tests
 
-* `ember test`
-* `ember test --server`
 
-### Building
+## Finally install Ember.js
+- $ npm install -g ember-cli
+- Now create new project by use $ ember new 'app-name'
+- $ cd 'app-name'
+- $ ember s(erver)
 
-* `ember build` (development)
-* `ember build --environment production` (production)
+Now your server is working - default it work on port 4300.
+You can try it open http://localhost:4200/ in your browser.
 
-### Deploying
 
-Specify what it takes to deploy your app.
+
+
+
+
 
 ## Further Reading / Useful Links
-
+Documentation and tutorials for Ember
 * [ember.js](http://emberjs.com/)
 * [ember-cli](http://www.ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+* [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
+* [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
-"#Windows-Chat-App" 
+
+
+
