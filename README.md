@@ -36,6 +36,10 @@ You can try it open http://localhost:4200/ in your browser.
 
 
 
+## Example Application created on Ember.js - Chat-App
+Thanks to zoltan-nz for do it
+https://github.com/zoltan-nz/chat-app-v2
+
 
 
 
