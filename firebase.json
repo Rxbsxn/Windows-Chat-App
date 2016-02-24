@@ -1,0 +1,9 @@
+{
+  "firebase": "chattingappcodersi",
+  "public": "dist",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
